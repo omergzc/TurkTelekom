@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TurkTelekom" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor" >@color/main_color</item>
+    </style>
+    
+
+    <style name="Theme.TurkTelekom" parent="Base.Theme.TurkTelekom" />
+</resources>
